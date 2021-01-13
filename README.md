@@ -17,3 +17,4 @@ Steps:
 ![GUI for this Project](Passwrd.png "GUI For this project")
 
 ![Working of Password Strength Evaluator](Password.png "In Action")
+#ML-MINI-PROJECT
